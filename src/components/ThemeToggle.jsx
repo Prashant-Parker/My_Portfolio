@@ -14,7 +14,7 @@ export default function ThemeToggle() {
         hover:scale-105
       "
     >
-      {dark ? "🌙 Dark" : "☀️ Light"}
+      {dark ? "🌙 Dark Mode" : "☀️ Light"}
     </button>
   );
 }
